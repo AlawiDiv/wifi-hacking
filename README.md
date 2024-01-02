@@ -69,16 +69,3 @@
  <p align="center"><a href="https://t.me/AWCODE3"> 
 <img src="https://telegra.ph/file/bd556ffdac3d12a449c5f.jpg" width="320" height="38.45"/></a></p>
 
-### 📧Feel free to write to me:
-### Contact : <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-<p align="left">
- <a href="#"><img src="email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="mailto:alawialqurshi@gmail.com"><img src="gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
-<a href="http://www.instagram.com/uxxki"><img src="instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="https://www.linkedin.com/in/AlawiDiv"><img src="linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="https://www.facebook.com/profile.php?id=100089634320605&mibextid=ZbWKwL">
-<a href="https://www.youtube.com/@AlaWiDiv"><img src="youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="#"><img src="snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px"></a>  
-<a href="https://t.me/ALAWE1"><img src="telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"> </a>    
-<a href="https://tiktok.com/@AlawiDiv"><img src="tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-</p>
