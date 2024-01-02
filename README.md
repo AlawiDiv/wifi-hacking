@@ -41,7 +41,7 @@
 # Installation
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update && apt-get install git
-    git clone https://github.com/rizmee/wifi-hacking.py.git
+    git clone https://github.com/AlawiDiv/wifi-hacking.git
     ls
     cd wifi-hacking.py
     ls
